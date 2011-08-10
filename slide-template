@@ -1,0 +1,12 @@
+    <div class="normal slide">
+      <div class="content">
+        <div class="header">Slide</div>
+        <div class="main">
+          <ul>
+            <li><h2>Point</h2></li>
+            <li><h2>Point</h2></li>
+            <li><h2>Point</h2></li>
+          </ul>
+        </div>
+      </div>
+    </div>
