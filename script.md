@@ -63,8 +63,8 @@ Slide 6
 * 11% of the people I contacted ended up contributing
 * 21% of all June contributors came from this group
 * 34% of all June demos came from this group
-* We got some really great submissions, including a couple that have already 
-  become famous here at Mozilla.
+* We got some really great submissions, including some have already become 
+  famous here at Mozilla.
 
 Slide 7
 -------
@@ -77,7 +77,7 @@ Slide 7
 * Some highlights...
     * One user said "When users start liking articles, we'll do XYZ". This was 
       really interesting. I thought about it for a while and realized that we 
-      had never considered this. We never thought about users liking articles.  
+      had never considered this. We never thought about users liking articles.
       But we should have.
     * Another explained that it might be hard for him to learn the MDN, as he 
       had never used it to write a spec before. Again, this was very revealing.  
@@ -86,9 +86,9 @@ Slide 7
       handles, as Mozilla uses IRC heavily. We had planned user profiles very 
       carefully, but this never crossed our minds.
     * My favorite was a user who mentioned that he was burned ever since the 
-      site went offline for an extended period of time a few years ago. Jay, 
-      the product manager of the site, had never heard of this. But it's an 
-      important issue nonetheless. The site did something to make this user 
+      site went offline for an extended period of time a couple of years ago.  
+      Jay, the product manager of the site, had never heard of this. But it's 
+      an important issue nonetheless. The site did something to make this user 
       believe it was broken, and we need to avoid that in the future.
 
 Slide 8
@@ -133,9 +133,8 @@ Slide 10
 * Finally, I wanted to ensure that people providing feedback on UserVoice were 
   rewarded for their efforts. They took the time to submit this great insight, 
   so they deserved to see some action taken in response.
-* Again I insulated developers from those discussions and gave them specific 
-  tasks to work on. Developers had specific tasks and users had an easy way to 
-  provide feedback. Everyone was happy.
+* Again I turned these thoughts into individual tasks. Developers had specific 
+  tasks and users had an easy way to provide feedback. Everyone was happy.
 
 Slide 11
 --------
